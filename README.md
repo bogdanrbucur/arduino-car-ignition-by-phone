@@ -1,5 +1,4 @@
 # arduino-car-ignition-by-phone
-Simple Arduino code to start a car remotely by calling a phone connected to an Arduino Uno installed in the car
 
 Project made by me inteded to be used to start a car remotely by calling a phone connected to an Arduino installed in the car. The idea was to call a phone number only I would know from a purposefully bought pre-paid SIM card, call for a pre-determined period of time and the algorithm would start the car if the transmission was in neutral. If after 30 minutes the key would not be inserted in the ignition, if I wouldn't go to the car, the engine would stop again.
 
